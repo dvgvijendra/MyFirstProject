@@ -11,7 +11,7 @@ body {
      }
 p.one {
     border-style: solid;
-    border-color: Red;
+    border-color: Blue;
     border-width: 5px;
     border-radius: 8px;
     padding-right: 30px;
